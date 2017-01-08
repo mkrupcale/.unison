@@ -1,0 +1,9 @@
+# Unison preferences
+label = Videos
+
+# Path
+path = Downloads/Media/Video
+path = Videos
+
+include shadowfax
+include common

@@ -1,0 +1,9 @@
+# Unison preferences
+label = Pictures
+
+# Path
+path = Pictures
+path = Downloads/Media/Images
+
+include shadowfax
+include common

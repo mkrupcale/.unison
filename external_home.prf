@@ -1,0 +1,12 @@
+# Unison preferences
+label = Home directory (external)
+
+# Path
+path = Downloads
+path = Documents
+path = Music
+path = Pictures
+path = Videos
+
+include external
+include common

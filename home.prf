@@ -1,0 +1,12 @@
+# Unison preferences
+label = Home directory
+
+# Path
+path = Downloads
+path = Documents
+path = Music
+path = Pictures
+path = Videos
+
+include shadowfax
+include common

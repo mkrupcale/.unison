@@ -1,0 +1,9 @@
+# Unison preferences
+label = Music
+
+# Path
+path = Music
+path = Downloads/Media/Audio
+
+include shadowfax
+include common

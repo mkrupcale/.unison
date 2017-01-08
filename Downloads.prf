@@ -1,0 +1,8 @@
+# Unison preferences
+label = Downloads
+
+# Path
+path = Downloads
+
+include shadowfax
+include common

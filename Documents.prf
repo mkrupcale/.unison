@@ -1,0 +1,8 @@
+# Unison preferences
+label = Documents
+
+# Path
+path = Documents
+
+include shadowfax
+include common

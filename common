@@ -1,0 +1,20 @@
+# Common Unison preferences
+
+# If any new preferences are added by Unison (e.g. 'ignore'
+# preferences added via the graphical UI), then store them in the
+# file 'common' rather than in the top-level preference file
+addprefsto = common
+
+# Names and paths to ignore:
+ignore = Name ~*
+ignore = Name *~
+ignore = Name .*~
+ignore = Name *.{o, a, so, pyc}
+ignore = Name .*.lock
+ignore = Name .metadata
+
+# Ignore paths with "/." in it
+#ignore = Regex .*/\..*
+
+# Ignore ".metadata" folders
+#ignore = Regex .*/\.metadata.*
