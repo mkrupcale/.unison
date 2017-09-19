@@ -9,7 +9,7 @@ addprefsto = common
 ignore = Name ~*
 ignore = Name *~
 ignore = Name .*~
-ignore = Name *.{o, a, so, pyc}
+ignore = Name *.{o,a,so,pyc}
 ignore = Name .*.lock
 ignore = Name .metadata
 
