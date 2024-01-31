@@ -12,6 +12,7 @@ ignore = Name .*~
 ignore = Name *.{o,a,so,pyc}
 ignore = Name .~lock.*#
 ignore = Name .*.lock
+ignore = Name .git
 ignore = Name .metadata
 
 # Ignore paths with "/." in it
